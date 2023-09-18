@@ -28,7 +28,9 @@ export default {
   }
 }
 </script>
-<style>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
 .wrap{
     width: 400px;
     border: 2.5px solid black;
@@ -63,5 +65,4 @@ export default {
     color: purple;
     background-color: white;
   }
-  </style>
-  
+</style>
