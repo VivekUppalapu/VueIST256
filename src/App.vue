@@ -22,4 +22,40 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.wrap{
+    width: 400px;
+    border: 2.5px solid black;
+    background-color: red;
+  }
+  .image{
+    width: 400px;
+    
+  }
+  .header{
+     text-align: center;
+  }
+  .header h3{
+    font-size: 40px;
+    color: blue;
+  }
+  .descrip
+  {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+  }
+  .allbtns button
+  {
+    font-size: 15px;
+    background-color: white;
+    color: teal;
+  }
+  .Detail
+  {
+    font-size: 17px;
+    color: purple;
+    background-color: white;
+  }
+  
+  
 </style>
