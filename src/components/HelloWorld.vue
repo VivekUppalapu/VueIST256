@@ -63,4 +63,5 @@ export default {
     color: purple;
     background-color: white;
   }
-</style>
+  </style>
+  
