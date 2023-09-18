@@ -30,39 +30,18 @@ export default {
 </script>
 
 <style>
-.wrap{
-    width: 400px;
-    border: 2.5px solid black;
-    background-color: red;
-  }
-  .image{
-    width: 400px;
-    
-  }
-  .header{
-     text-align: center;
-  }
-  .header h3{
-    font-size: 40px;
-    color: blue;
-  }
-  .descrip
-  {
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-  }
-  .allbtns button
-  {
-    font-size: 15px;
-    background-color: white;
-    color: teal;
-  }
-  .Detail
-  {
-    font-size: 17px;
-    color: purple;
-    background-color: white;
-  }
-  
+h3 {
+  margin: 40px 0 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+a {
+  color: #42b983;
+}
 </style>
